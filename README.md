@@ -51,7 +51,8 @@ Insert text
 <img align="left" src="images/Aris-Allegos.png">
 
 
-Insert text
+A driven and motivated customer service/technical specialist professional with multiple years of experience in the banking and customer service industry. A proven ability to build strong relationships through excellent communication skills across all areas of the business from senior management to stakeholders and vendors. Currently working as a relations consultant/case manager within BT Finacial Group providing assistance to a variety of clients utilising specialised technical skills in order to provide exceptional support.
+
 
 
 
