@@ -82,38 +82,38 @@ ES - Using a Domain's API to fetch the latest auction data such such as:
    - "median"
    - "adjClearanceRate"
      
-### Findings 
+# Findings 
 
-  Through our quantitative analysis of the asset classes we worked with(crypto, stocks, property), we were able to efficiently visualise our results and           determine key indicators to compare between them. Through the dashboard we created, we were able to display this analysis to assist in the users decision on     what investment avenue they wanted to take, factoring in their risk tolerence. 
+  Through our quantitative analysis of the asset classes we worked with (crypto, stocks, property), we were able to efficiently visualise our results and           determine key indicators to compare between them. Through the dashboard we created, we were able to display this analysis to assist in the users decision on     what investment avenue they wanted to take, factoring in their risk tolerence. 
 
-  ## Crypto 
-  Within the crypto analysis we I narrowed it down to four main indicators to evaluate the asset class including; daily returns, cumulative returns, correlation   between different cryptocurrencies, and finally the sharpe ration.  
+  ## Crypto Analysis
+  Within the crypto analysis I was able to narrowed it down to four main indicators to evaluate the asset class including; daily returns, cumulative returns,       correlation between different cryptocurrencies, and finally the sharpe ratio.  
   
-  # Daily Returns
-  In this analysis, daily returns indicated the profit or loss in relation to the changing closing prices over a period of time. I found that crypto as a whole     is quite volitile and this volitility is excellently displayed through the range of fluctuation within the daily returns as seen in the chart below. 
+  ### Daily Returns
+  In this analysis, daily returns indicated the profit or loss in determined by the changing closing prices over a period of time. I found that crypto as a whole   is quite volitile and this volitility is excellently displayed through the range of fluctuation within the daily returns as seen in the chart below. 
   
   ![Daily Returns Crypto ](https://user-images.githubusercontent.com/96010215/155122407-c5ed17d1-ad6a-4eb7-815c-141ca6343253.png)
   
-  Through the differences in how long each crypto currency has been trading, daily returns far easier to visualise on a smaller time frame that allows the same     duration of data to be displayed as seen below. 
+  Through the differences in how long each crypto currency has been trading, daily returns were far easier to visualise on a smaller time frame that allows the     same duration of data to be displayed collectively as seen below. 
   
   ![Daily Returns Formatted Crypto](https://user-images.githubusercontent.com/96010215/155123257-2f748317-7911-4209-9e47-679947a6a8c7.png)
   
-  # Cumulative Returns 
+  ### Cumulative Returns 
   Cumulative retuns gives us a beter view of the profitability of an asset over time, enabaling us to determine its performance as seen below. This data
   effectively shows the volitility of the market and the huge returns that can come with it. 
   
   ![Cumulative Returns Crypto ](https://user-images.githubusercontent.com/96010215/155123645-51f7d34f-7b6a-4bc1-941f-27225868f231.png)
   
-  Again, lets take a closer look into the how this is data looks on a shorter time frame. 
+  Again, lets take a closer look into how this is data looks on a shorter time frame. 
   
   ![Cumulative Returns Crypto Formatted ](https://user-images.githubusercontent.com/96010215/155124061-513c104c-ceb0-4f34-8720-2782fdee2cdf.png)
   
-  # Sharpe Ratio
-  The Sharpe ration in this analysis measures the performance of a crypto in comparison to a risk adjusted mean of the market. Due to crypto being an overall       volitile market, this representation has to be viewed with the understanding that its comparing to the mean of crypto assets. Generally speaking the higher the   sharpe ration the better, using 1.0 as a desired target for good returns from its presented risk. 
+  ### Sharpe Ratio
+  The Sharpe ratio in this analysis measures the performance of a crypto in comparison to a risk adjusted average return of that crypto currency. Due to crypto     being an overall volitile market, this representation must be viewed with the understanding that its comparing to the mean of crypto assets. Generally           speaking the higher the sharpe ration the better, using 1.0 as a desired target for good returns from its presented risk and anything un the upside presents     further oportunity. 
   
   ![Sharpe Ration Crypto ](https://user-images.githubusercontent.com/96010215/155124910-c09bb992-3f80-44a2-8e0e-7715804ab0de.png)
 
-  # Correlation 
+  ### Correlation 
   The below correlation heat map displays a Pearson correlation between the selected crypto currencies. The pearson heat map shows a linear comparison between     two assets at a time, with 1 being exactly correlated and -1 being the opposite. From my analysis we can conclude that the crypto market is highly correlated     as a whole which is something to take into concideration when trying to hedge your investments. 
   
   ![Crypto Correlation ](https://user-images.githubusercontent.com/96010215/155125479-341cb494-cd83-459d-9db5-9e2b2278bb49.png)
