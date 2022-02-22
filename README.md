@@ -19,7 +19,7 @@
 
 ---
 
-This Project presents a dashboard to provide Interactive Visualizations, and Static Charts to help the investors get an oversight on current market volatility regarding the Three asset-clases portfolio which comprised of: <br/>
+This Project presents a dashboard to provide Interactive Visualizations, and Static Charts to help the investors get an oversight on current market volatility regarding the three different asset classes which comprised of: <br/>
  - Crypto Currency
  - US and Australian Stocks
  - Australian Property
@@ -67,7 +67,7 @@ Our analysis will collect stock, crypto and real estate data via APIs to create 
 
 * Can investors rationalise continued investment in FB stock following the companies $230bn wipeout and biggest one day loss in history for a US company? 
 * What is most desirable to Australian real estate investors? 
-* Is cryptocurrency a desirable investment?
+* Is cryptocurrency a desirable investment in comparrison to its risk?
 * Quantitative analysis of each individual asset class?
 
 ### Real Estate
@@ -82,7 +82,14 @@ ES - Using a Domain's API to fetch the latest auction data such such as:
    - "median"
    - "adjClearanceRate"
      
+###Findings 
 
+Through our quantitative analysis of the asset classes we worked with(crypto, stocks, property), we were able to efficiently visualise our results and determine key indicators to compare between them. Through the dashboard we created, we were able to display this analysis to assist in the users decision on what investment avenue they wanted to take, factoring in their risk tolerence. 
 <br/>
+
+<a name="top"></a>
+<p align="center">
+  <img src="https://github.com/coenfe/group-project/A_Team_Logo.gif"/>
+</p>
 
 
