@@ -19,7 +19,10 @@
 
 ---
 
-Summary description?
+This Project presents a dashboard to provide Interactive Visualizations, and Static Charts to help the investors get an oversight on current market volatility regarding the Three asset-clases portfolio which comprised of: <br/>
+ - Crypto Currency
+ - US and Australian Stocks
+ - Australian Property
 
 ---
 
@@ -39,10 +42,11 @@ Australia and overseas.
 <br/>
 
 #### Ebad Salehi ####
+<img align="left" src="images/">
 
-
-Insert text
-
+More than ten years of experience in various technical roles as well as customer service within different industries , have me develop highly valuable stakeholder and people management skills. I have enjoyed success in my own customer-fronting businesses and managing a team of 10 employees. 
+<br/>
+As an early cryptocurrency investor, the trading skills and knowledge gathered through the years assisted me to be a fulltime trader and analyst.
 
 <br/>
 
@@ -68,20 +72,22 @@ This project will collect various data utilizing API's to create a specific port
 
 ### Research Questions
 
-CN - insert contribution. 
-ES - insert contribution. 
+CN - insert contribution.
+<br/>
+ES - insert contribution.
+<br/>
 CE - insert contribution. 
-
+<br/>
 ### Breakdown of Tasks
 
-CN - describe tasks performerd. 
-ES - describe tasks. 
-CE - describe tasks. 
+CN - US and Australian Stocks analysis 
+ES - Australian Property market analysis.
+CE - Cryptocurrency Market analysis 
 
 Project 1 - Group A
 
 Project title:
-Asset Cass Analysis 
+Asset Class Analysis 
 
 Team Members:
 Charbel Nehme, Ebad Salehi, Coen Emmenegger
