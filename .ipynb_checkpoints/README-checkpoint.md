@@ -42,7 +42,7 @@ Australia and overseas.
 <br/>
 
 #### Ebad Salehi ####
-<img align="left" src="images/">
+<img align="left" src="images/Ebad_Salehi.jpg">
 
 More than ten years of experience in various technical roles as well as customer service within different industries , have me develop highly valuable stakeholder and people management skills. I have enjoyed success in my own customer-fronting businesses and managing a team of 10 employees. 
 <br/>
@@ -71,18 +71,36 @@ A driven and motivated customer service/technical specialist professional with m
 This project will collect various data utilizing API's to create a specific portfolio within set asset classes which includes Crypto, Stocks, Property... . This data will then be cleaned and manipulated to allow us to perform... analysis to then visually present the findings in order to derive potential investing oportunities. This visual representation will be displayed through an interactive dashboard for users to create their desired outcomes. 
 
 ### Research Questions
+ - How different asset classes have performed in comparison to one another taking into account risk analysis? 
+
+ - Datasets to be used: closing prices of stocks and crypto along with various property performance within different cities
 
 CN - insert contribution.
+
 <br/>
-ES - insert contribution.
+
+ES - Using a Domain's API to fetch the latest auction data such such as:
+   - "numberListedForAuction"
+   - "numberWithdrawn"
+   - "numberUnreported"
+   - "numberAuctioned"
+   - "numberSold"
+   - "totalSales"
+   - "median"
+   - "adjClearanceRate"
+     
 <br/>
+
 CE - insert contribution. 
+
+
 <br/>
+
 ### Breakdown of Tasks
 
-CN - US and Australian Stocks analysis 
-ES - Australian Property market analysis.
-CE - Cryptocurrency Market analysis 
+ - CN - US and Australian Stocks analysis 
+ - ES - Australian Property market analysis.
+ - CE - Cryptocurrency Market analysis 
 
 Project 1 - Group A
 
@@ -95,10 +113,5 @@ Charbel Nehme, Ebad Salehi, Coen Emmenegger
 Project Description/Outline:
 This project will collect various data utilizing API's to create a specific portfolio within set asset classes which includes Crypto, Stocks, Property... . This data will then be cleaned and manipulated to allow us to perform... analysis to then visually present the findings in order to derive potential investing oportunities. This visual representation will be displayed through an interactive dashboard for users to create their desired outcomes. 
 
-Research question to answer:
-How different asset classes have performed in comparison to one another taking into account risk analysis 
 
-Datasets to be used:
-closing prices of stocks and crypto along with various property performance within different regions 
 
-Rough breakdown of tasks:
