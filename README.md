@@ -1,6 +1,6 @@
 <a name="top"></a>
 <p align="center">
-  <img src="https://github.com/coenfe/group-project/A_Team_Logo.gif"/>
+  <img src="images/A_Team_Logo.gif"/>
 </p>
 
 ## Table of Contents 
