@@ -82,11 +82,11 @@ ES - Using a Domain's API to fetch the latest auction data such such as:
    - "median"
    - "adjClearanceRate"
      
-# Findings 
+## Findings 
 
   Through our quantitative analysis of the asset classes we worked with (crypto, stocks, property), we were able to efficiently visualise our results and           determine key indicators to compare between them. Through the dashboard we created, we were able to display this analysis to assist in the users decision on     what investment avenue they wanted to take, factoring in their risk tolerence. 
 
-  ## Crypto Analysis
+  ### Crypto Analysis
   Within the crypto analysis I was able to narrowed it down to four main indicators to evaluate the asset class including; daily returns, cumulative returns,       correlation between different cryptocurrencies, and finally the sharpe ratio.  
   
   ### Daily Returns
