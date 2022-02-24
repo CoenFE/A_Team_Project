@@ -90,7 +90,7 @@ ES - Using a Domain's API to fetch the latest auction data such such as:
   Within the crypto analysis I was able to narrowed it down to four main indicators to evaluate the asset class including; daily returns, cumulative returns,       correlation between different cryptocurrencies, and finally the sharpe ratio.  
   
   ### Daily Returns
-  In this analysis, daily returns indicated the profit or loss in determined by the changing closing prices over a period of time. I found that crypto as a whole   is quite volitile and this volitility is excellently displayed through the range of fluctuation within the daily returns as seen in the chart below. 
+  In this analysis, daily returns indicated the profit or loss, determined by the changing closing prices over a period of time. I found that crypto as a whole     is quite volitile and this volitility is excellently displayed through the range of fluctuation within the daily returns as seen in the chart below. 
   
   ![Daily Returns Crypto ](https://user-images.githubusercontent.com/96010215/155122407-c5ed17d1-ad6a-4eb7-815c-141ca6343253.png)
   
